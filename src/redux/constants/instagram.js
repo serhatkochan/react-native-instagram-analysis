@@ -1,0 +1,3 @@
+export const PENDING = 'PENDING';
+export const GET_INSTAGRAM_DATA = "GET_INSTAGRAM_DATA";
+export const SET_INSTAGRAM_DATA = "SET_INSTAGRAM_DATA";
